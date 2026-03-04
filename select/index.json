@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新世界クレッシェンド",
+  "base_artist": "SWEET STEADY",
+  "createdAt": "2026-03-04T01:41:17.264411Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新世界クレッシェンド",
+      "artist": "SWEET STEADY",
+      "has_synced": false,
+      "path": "select/pl_01_新世界クレッシェンド_SWEET_STEADY.txt"
+    }
+  ]
+}
